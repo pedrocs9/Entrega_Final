@@ -1,0 +1,28 @@
+[
+    {
+        "id":"1",
+        "Nombre":"Binance",
+        "url": "https://www.binance.com/",
+        "logo":"assets/binance.png"    
+    },
+    {
+        "id":"2",
+        "Nombre":"Investing",
+        "url": "https://www.investing.com/",
+        "logo":"assets/investing.jpg"    
+    },
+    {
+        "id":"3",
+        "Nombre":"TradingView",
+        "url": "https://es.tradingview.com/",
+        "logo":"assets/tradingview.webp"    
+    },
+    {
+        "id":"4",
+        "Nombre":"ChatGTP",
+        "url": "https://chat.openai.com/",
+        "logo":"assets/chat.png"    
+    }
+
+
+]
